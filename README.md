@@ -1,4 +1,7 @@
 # scRNA-seq Analysis Workshop
+
+This workshop is imported from [David Cook on 2020](https://github.com/dpcook/scrna_seq_workshop_2020).
+
 All data and notebook for my 2020 scRNA-seq analysis workshop. This workshop will contain a fairly straight forward processing and exploratory data analysis pipeline for the 10x Genomics 8k PBMC data set.
 
 **Download/clone the entire repository to download all required data and maintain the folder structure referrenced within the R scripts**
